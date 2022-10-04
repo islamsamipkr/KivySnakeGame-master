@@ -3,7 +3,7 @@ from kivy.uix.widget import Widget
 from kivy.clock import Clock
 from random import randint
 from kivy.core.window import Window
-
+import random
 
 class SnakePart(Widget):
     pass
